@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>My React App</h1>
+        <h1>new second row</h1>
       </header>
     </div>
   );
